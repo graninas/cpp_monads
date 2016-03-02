@@ -9,3 +9,6 @@ TEMPLATE = subdirs
 SUBDIRS += \
     cpp_monads \
     cpp_monadsTest
+
+OTHER_FILES += \
+    cpp_monads.pri
