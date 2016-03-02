@@ -11,7 +11,7 @@ namespace monad
 namespace maybe
 {
 
-using namespace f_core;
+using namespace fp;
 
 // Experimental Maybe stack.
 // There are a better solutions using Variadic templates or tuples.
