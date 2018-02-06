@@ -12,7 +12,7 @@ TARGET = tst_monadtest
 CONFIG   += console
 CONFIG   -= app_bundle
 
-QMAKE_CXXFLAGS += -std=c++11
+CONFIG += c++14
 
 TEMPLATE = app
 
